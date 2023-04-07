@@ -1,1 +1,1 @@
-This is my personal website that includes a lot of interesting facts that have made me the person I am today.
+This is my personal website that incorporates html, css styling, and javascript to showcase some personal information about my life.
