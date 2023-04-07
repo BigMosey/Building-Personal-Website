@@ -7,7 +7,10 @@
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
-    
+
+}
+.links:hover{
+    background-color: #1a94db;
 }
 .links2{
     float:left;
@@ -19,6 +22,9 @@
     font-size: 16px;
     cursor: pointer;
 }
+.links2:hover{
+    background-color: #1a94db;
+}
 .links3{
     float:left;
     padding:.5em ;
@@ -28,6 +34,9 @@
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
+}
+.links3:hover{
+    background-color: #1a94db;
 }
 
 .name{
@@ -152,3 +161,4 @@
 .body1{
     background-color: #30C5FF;
 }
+
