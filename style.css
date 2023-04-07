@@ -2,17 +2,18 @@
     float:left;
     padding:.5em ;
     border: 2px solid black;
-    background-color: white;
+    background-color: #DCDCDD;
     color: black;
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
+    
 }
 .links2{
     float:left;
     padding:.5em ;
     border: 2px solid black;
-    background-color: white;
+    background-color: #DCDCDD;
     color: black;
     padding: 14px 28px;
     font-size: 16px;
@@ -22,7 +23,7 @@
     float:left;
     padding:.5em ;
     border: 2px solid black;
-    background-color: white;
+    background-color: #DCDCDD;
     color: black;
     padding: 14px 28px;
     font-size: 16px;
@@ -47,11 +48,107 @@
 .home-backgroundcolor{
     background-color: #30C5FF;
 }
+.homesec{
+    background-color: #DCDCDD;
+}
 .h1name{
     padding-left: 12em;
 }
-.sec1{
-    background-color: aliceblue;
+
+.div1{
+    text-align: center;
+    font-size:2em;
+    font-weight:bold;
+    background-color:#DCDCDD ;
+}
+.firstimg{
+    float:left;
+    width: 300px;
+    height: auto;
+    border:2px solid #fcfafa;
+    -moz-box-shadow: inset 10px 10px 50px #2c0404;
+    -webkit-box-shadow: inset 10px 10px 50px #270303;
+    box-shadow: inset 10px 10px 50px #0a0000;
 }
 
+.secondimg{
+    float:right;
+    
+    width: 300px;
+    height: auto;
+    border:2px solid #fff;
+    -moz-box-shadow: inset 10px 10px 50px #fff;
+    -webkit-box-shadow: inset 10px 10px 50px #fff;
+    box-shadow: inset 10px 10px 50px #fff;
+}
+.thirdimg{
+    float:left;
+    
+    width: 300px;
+    height: auto;
+    border:2px solid #fff;
+    -moz-box-shadow: inset 10px 10px 50px #fff;
+    -webkit-box-shadow: inset 10px 10px 50px #fff;
+    box-shadow: inset 10px 10px 50px #fff;
+}
+.sec1{
+    box-sizing: border-box;
+    display: block;
+    border-top: 2px solid #bbb;
+    border-bottom:2px solid #bbb ;
+}
+.sec2{
+    box-sizing: border-box;
+    display: block;
+    border-bottom:2px solid #bbb ;
+}
 
+.b1{
+    background-color: #30C5FF;
+}
+.img11{
+    float:right;
+    width: 250px;
+    height: auto;
+    border:2px solid #fcfafa;
+    -moz-box-shadow: inset 10px 10px 50px #2c0404;
+    -webkit-box-shadow: inset 10px 10px 50px #270303;
+    box-shadow: inset 10px 10px 50px #0a0000;
+}
+.img22{
+    float:left;
+    width: 300px;
+    height: auto;
+    border:2px solid #fcfafa;
+    -moz-box-shadow: inset 10px 10px 50px #2c0404;
+    -webkit-box-shadow: inset 10px 10px 50px #270303;
+    box-shadow: inset 10px 10px 50px #0a0000;
+}
+.img33{
+    float:right;
+    width: 300px;
+    height: auto;
+    border:2px solid #fcfafa;
+    -moz-box-shadow: inset 10px 10px 50px #2c0404;
+    -webkit-box-shadow: inset 10px 10px 50px #270303;
+    box-shadow: inset 10px 10px 50px #0a0000;
+}
+.h22{
+    font-size: 2em;
+    text-shadow: 2px 2px #1a94db;
+}
+
+.sec22{
+    box-sizing: border-box;
+    display: block;
+    border-top: 2px solid #bbb;
+    border-bottom:2px solid #bbb ;
+}
+.sec33{
+    box-sizing: border-box;
+    display: block;
+    border-bottom:2px solid #bbb ;
+}
+.body1{
+    background-color: #30C5FF;
+}
