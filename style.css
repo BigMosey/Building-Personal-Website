@@ -1,4 +1,5 @@
 .links{
+
     float:left;
     padding:.5em ;
     border: 2px solid black;
@@ -184,4 +185,61 @@
 .contact1{
     background-color: #30C5FF;
     
+}
+.circle{
+    height:150px;
+    width:150px;
+    background-color:#ebe709;
+    border-radius: 50%;
+    position:absolute;
+    top: 560px;
+    left:260px;
+
+}
+.circle2{
+    height:150px;
+    width:150px;
+    background-color: #140b10;
+    border-radius: 50%;
+    position:absolute;
+    top: 30px;
+    left:1470px;
+}
+.circle3{
+    z-index: -1;
+    height:150px;
+    width:150px;
+    background-color: #263ec7;
+    border-radius: 50%;
+    position:absolute;
+    top: 40px;
+    left:975px;
+}
+.circle4{
+    z-index: -1;
+    height:150px;
+    width:150px;
+    background-color: #09eb4d;
+    border-radius: 50%;
+    position:absolute;
+    top: 230px;
+    left:750px;
+}
+.circle5{
+    height:150px;
+    width:150px;
+    background-color: #ce1370;
+    border-radius: 50%;
+    position:absolute;
+    top: 565px;
+    left:1650px;
+}
+.circle6{
+    height:150px;
+    width:150px;
+    background-color: #420926;
+    border-radius: 50%;
+    position:absolute;
+    top: 90px;
+    left:150px;
 }
